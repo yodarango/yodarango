@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a mobile app
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on bible related apps
-- 🤔 I’m looking for help with python
+- 🤔 I’m looking for help with best coding practices
 - 💬 Ask me about Theology, Chirstology, Fitness and anything Tech
 - 📫 How to reach me: [Instagram - @yodarango](https://www.instagram.com/yodarango)
 - 😄 Pronouns: He/ Him
