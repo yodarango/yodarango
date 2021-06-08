@@ -1,16 +1,12 @@
-### Hi there 👋
+### Heello World! 🌎👋 
 
-<!--
-**yodarango/yodarango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a mobile app
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on bible related apps
+- 🤔 I’m looking for help with python
+- 💬 Ask me about Theology, Chirstology, Fitness and anything Tech
+- 📫 How to reach me: [Instagram - @yodarango](https://www.instagram.com/yodarango)
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: I love coding a little bit! get it? bit? 😉 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=yodarango&&show_icons=true&title_color=f2f2f2&icon_color=f2f2f2&text_color=f2f2f2&bg_color=242424" /> 
