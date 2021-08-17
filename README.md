@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on bible related apps
 - 🤔 I’m looking for help with best coding practices
-- 💬 Ask me about Theology, Chirstology, Fitness and anything Tech
+- 💬 Ask me about Theology, Chirstology, Fitness and all things software dev
 - 📫 How to reach me: [Instagram - @yodarango](https://www.instagram.com/yodarango)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love coding a little bit! get it? bit? 😉 
