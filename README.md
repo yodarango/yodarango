@@ -8,7 +8,7 @@ I am a passionate software engineer who loves to use his skills to build tools o
 
 * 🌍  I'm based in Tennessee
 * ✉️  You can contact me at [hey@danielrangel.net](mailto:hey@danielrangel.net)
-* 🚀  I'm currently working on [Bible Scholar App](http://biblescholar.app)
+* 🚀  I'm currently working on [shrood.app](http://biblescholar.app)
 * 🧠  Learning Rust and loving it 🦀
 * 📱  If you would liek to collaborate in [Bible Scholar App](https://biblescholar.app) let reach out to me via developer@biblescholar.app
 * ⚡  I love reading, lifting, mountain biking and creating content. I am pursuing my masters in Theology from BIOLA
