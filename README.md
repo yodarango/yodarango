@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel
+# Hi 👋! I'm D.R.
 ==============================================================================================================================
 
-Passionate Christian & Developer 
+## Passionate Christian & Developer 
 ------------------------------------------
 
 I am a passionate software engineer who loves to use his skills to build tools others can benefit from. Most of my projects are Christian ministry related.
@@ -13,9 +13,7 @@ I am a passionate software engineer who loves to use his skills to build tools o
 * 🩶 I love all things Theology, Dev, Fitness, Reading, and Mtn Biking.
 * 📜 I am pursuing my masters in Theology from BIOLA
 
-<a href="https://www.twitter.com/yodarango" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yodarango?logo=twitter&style=for-the-badge&color=a855f7&labelColor=171717"
-/></a>
+<a href="https://danielrangel.net" target="_blank" rel="noopener noreferrer"><b>My personal site</b></a>
 
 ### Skills
 
