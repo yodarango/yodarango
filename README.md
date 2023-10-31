@@ -1,7 +1,6 @@
 # Hi 👋! I'm D.R.
 
 ## Passionate Christian & Developer 
-------------------------------------------
 
 I am a passionate software engineer who loves to use his skills to build tools others can benefit from. Most of my projects are Christian ministry related.
 
